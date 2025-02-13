@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: "Ubuntu";
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, #fe3c72, #e69aae);
+    padding: 15% 0;
+}
+
+h3 {
+    margin: 50px;
+}
+
+button {
+    background-color: #9b294b;
+    border: solid 2px #fff;
+    border-radius: 4px;
+    color: white;
+    font-family: "Ubuntu";
+    height: 40px;
+    min-width: 80px;
+    width: auto;
+    padding: 10px;
+
+    -webkit-box-shadow: 8px 8px 73px 7px rgba(66, 68, 90, 0.31);
+    -moz-box-shadow: 8px 8px 73px 7px rgba(66, 68, 90, 0.31);
+    box-shadow: 8px 8px 73px 7px rgba(66, 68, 90, 0.31);
+}
+
+img {
+    border-radius: 10px;
+    -webkit-box-shadow: 8px 8px 32px -6px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 32px -6px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 32px -6px rgba(66, 68, 90, 1);
+}
+
+p {
+    font-size: 10px;
+    margin-top: 50px;
+}
